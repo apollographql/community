@@ -14,6 +14,7 @@ versions:
 sidebar_categories:
   null:
     - index
+    - contributing
 github_repo: apollostack/community
 content_root: source
 
