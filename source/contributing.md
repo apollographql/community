@@ -19,6 +19,11 @@ While we will try to be as helpful as we can regardless, please include the foll
 
 Creating a good reproduction really helps contributors investigate and resolve your issue quickly. In many cases, the act of creating a minimal reproduction illuminates that the source of the bug was somewhere outside the library in question, saving time and effort for everyone.
 
+A good starting point for building reproductions are the "hello world" examples on the [developer home page](http://dev.apollodata.com):
+
+  - [React Version](https://github.com/apollostack/frontpage-react-app)
+  - [Angular 2 Version](https://github.com/apollostack/frontpage-angular2-app)
+
 ### Suggesting features
 
 Most of the features in Apollo were suggested by the community at some point in time. We welcome any ideas about how to make our project better for your use case. Unless there is overwhelming demand for a feature, it might not get implemented immediately, but please include as much information as possible that will help people have a discussion about your proposal:
