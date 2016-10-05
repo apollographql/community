@@ -33,4 +33,4 @@ We love to hear stories about what people building with Apollo or GraphQL. Email
 
 You can catch the Apollo team and contributors IRL at conferences and meetups around the world. [Follow us on Twitter](http://apollostack.com) to hear where we’ll be next.
 
-If you’re based in the SF Bay Area, or just pass through sometimes, join our GraphQL San Francisco meetup to get updated when we schedule a new one. 
+If you’re based in the SF Bay Area, or just pass through sometimes, join our [GraphQL San Francisco](http://www.meetup.com/GraphQL-SF/) meetup to get updated when we schedule a new one. 
