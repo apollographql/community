@@ -23,7 +23,7 @@ Here are some ways you can get involved with the project:
 - Give a conference talk
 - Organize a meetup
 
-To get started contributing, first read our [Code of Conduct](http://dev.apollodata.com/community/code-of-conduct.html) and [Contributor Guide](http://dev.apollodata.com/community/contributing.html). If you have any questions along the way, just pop into the **#contributing channel on Slack**. We can’t wait to work with you!
+To get started contributing, first read our [Code of Conduct](http://dev.apollodata.com/community/code-of-conduct.html) and [Contributing Guide](http://dev.apollodata.com/community/contributing.html). If you have any questions along the way, just pop into the **#contributing channel on Slack**. We can’t wait to work with you!
 
 ### Share Your GraphQL Story 
 
