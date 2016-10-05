@@ -1,5 +1,5 @@
 ---
-title: Contributor Guide
+title: Contributing Guide
 order: 1
 ---
 
