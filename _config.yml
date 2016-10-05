@@ -15,7 +15,6 @@ sidebar_categories:
   null:
     - index
     - contributing
-    - top-contributors
     - code-of-conduct
 github_repo: apollostack/community
 content_root: source
