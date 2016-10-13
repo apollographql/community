@@ -2,9 +2,11 @@
 title: Get Involved
 order: 0
 ---
-Welcome! The Apollo community is made up of developers around the world who are building awesome things with GraphQL. Here you can learn how to get help with Apollo and GraphQL, contribute to Apollo projects, and attend events and talks organized by the community.
+Welcome! The Apollo community is made up of developers around the world who are building awesome things with GraphQL. The project is sponsored by [Meteor Development Group](http://www.meteor.com), where many of Apollo’s core contributors work.
 
-### Join the Community 
+In this section, you can learn how to get help with Apollo and GraphQL, contribute to Apollo projects, and attend events and talks organized by the community.
+
+### Join the Community
 
 Come chat with Apollo team members, contributors, and developers on [our Slack](http://www.apollostack.com/#slack). It’s a great place to get help using Apollo and discuss the latest in the GraphQL community.
 
