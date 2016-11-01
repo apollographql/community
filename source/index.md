@@ -8,7 +8,7 @@ In this section, you can learn how to get help with Apollo and GraphQL, contribu
 
 ### Join the Community
 
-Come chat with Apollo team members, contributors, and developers on [our Slack](http://www.apollostack.com/#slack). It’s a great place to get help using Apollo and discuss the latest in the GraphQL community.
+Come chat with Apollo team members, contributors, and developers on [our Slack](http://www.apollodata.com/#slack). It’s a great place to get help using Apollo and discuss the latest in the GraphQL community.
 
 To keep up to date on all things Apollo, you can follow us on [Twitter](https://twitter.com/apollographql), [Medium](https://medium.com/apollo-stack), and [Facebook](https://www.facebook.com/theapollostack/).
 
@@ -33,6 +33,6 @@ We love to hear stories about what people building with Apollo or GraphQL. Email
 
 ### Attend an Event
 
-You can catch the Apollo team and contributors IRL at conferences and meetups around the world. [Follow us on Twitter](http://apollostack.com) to hear where we’ll be next.
+You can catch the Apollo team and contributors IRL at conferences and meetups around the world. [Follow us on Twitter](http://twitter.com/apollographql) to hear where we’ll be next.
 
 If you’re based in the SF Bay Area, or just pass through sometimes, join our [GraphQL San Francisco](http://www.meetup.com/GraphQL-SF/) meetup to get updated when we schedule a new one.
