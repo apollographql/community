@@ -10,7 +10,7 @@ In this section, you can learn how to get help with Apollo and GraphQL, contribu
 
 Come chat with Apollo team members, contributors, and developers on [our Slack](http://www.apollodata.com/#slack). It’s a great place to get help using Apollo and discuss the latest in the GraphQL community.
 
-To keep up to date on all things Apollo, you can follow us on [Twitter](https://twitter.com/apollographql), [Medium](https://medium.com/apollo-stack), and [Facebook](https://www.facebook.com/theapollostack/).
+To keep up to date on all things Apollo, you can follow us on [Twitter](https://twitter.com/apollographql), [Medium](https://medium.com/apollo-stack), and [Facebook](https://www.facebook.com/apollographql/).
 
 ### Contribute to Apollo
 
