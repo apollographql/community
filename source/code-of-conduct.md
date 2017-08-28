@@ -12,9 +12,9 @@ The project gains strength from a diversity of backgrounds and perspectives in o
 
 This isn’t an exhaustive list of things that you can’t do. Rather, it’s a guide for participation in the community that outlines how each of us can work to keep Apollo a positive, successful, and growing project. 
 
-This code of conduct applies to all spaces managed by the Apollo project or Apollo Stack. This includes Slack, GitHub issues, the GraphQL Summit and GraphQL SF events, and any other forums created by the Apollo team which the community uses for communication. Breaches of this code outside these spaces may affect a person's ability to participate within them. We expect it to be honored by everyone who represents or participates in the project, whether officially or informally.
+This code of conduct applies to all spaces managed by the Apollo project or company. This includes Slack, GitHub issues, the GraphQL Summit and GraphQL SF events, and any other forums created by the Apollo team which the community uses for communication. Breaches of this code outside these spaces may affect a person's ability to participate within them. We expect it to be honored by everyone who represents or participates in the project, whether officially or informally.
 
-If you believe someone is violating the code of conduct, please report it by emailing [community@apollostack.com](mailto:community@apollostack.com). 
+If you believe someone is violating the code of conduct, please report it by emailing [community@apollodata.com](mailto:community@apollostack.com). 
 
 ### We Strive To:
 
@@ -33,7 +33,8 @@ If you believe someone is violating the code of conduct, please report it by ema
     We do not tolerate harassment or exclusionary behavior. This includes, but is not limited to:
   - Violent threats or language directed against another person.
   - Discriminatory jokes and language.
-  - Posting sexually explicit or violent material.
+  - Posting sexually explicit or sexualized content.
+  - Posting content depicting or encouraging violence. 
   - Posting (or threatening to post) other people's personally identifying information ("doxing").
   - Personal insults, especially those using racist or sexist terms.
   - Unwelcome sexual attention.
@@ -67,4 +68,4 @@ Sections of this Code of Conduct were inspired in by the following Codes from ot
 - [Ubuntu](http://www.ubuntu.com/about/about-ubuntu/conduct)
 - [Django](https://www.djangoproject.com/conduct/)
 
-*This Apollo Code of Conduct is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license. This Code was last updated on October 5, 2016.* 
+*This Apollo Code of Conduct is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license. This Code was last updated on August 28, 2017.* 
