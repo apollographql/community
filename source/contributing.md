@@ -5,6 +5,16 @@ order: 1
 
 Excited about Apollo and want to make it better? We’re excited too. Read below to learn about different ways to contribute to the project.
 
+## Contributor channels
+
+### Slack
+
+A great place to start if you're looking for ideas on how to contribute, guidance through our contribution workflow, or discussion with other contributors, is the **#contributing** channel on [Apollo Slack](http://apollographql.com/#slack). We're always looking for new library maintainers and issue triagers, and this channel is the best place to see where your help is needed.  
+
+### Contributor Weekly 
+
+Every week, Apollo's core contributors and maintainers meet to review project issues and pull requests and discuss work on the latest project milestones. You can review minutes from every meeting [here](https://github.com/apollographql/apollo/tree/master/meetings/contributors-weekly) and request an invitation to discuss your PR or project idea in the **#contributing** channel. 
+
 ## Issues
 
 ### Reporting bugs
