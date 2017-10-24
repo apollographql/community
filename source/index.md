@@ -29,10 +29,12 @@ To get started contributing, first read our [Code of Conduct](http://dev.apollod
 
 ### Share Your GraphQL Story
 
-We love to hear stories about what people building with Apollo or GraphQL. Email us at [community@apollostack.com](mailto:community@apollostack.com) to let us know if you’re speaking at an event, have a blog post in mind, or just have an interesting experience to share. We’ll help get the word out!
+We love to hear stories about what people building with Apollo or GraphQL. Email us at [community@apollographql.com](mailto:community@apollographql.com) to let us know if you’re speaking at an event, have a blog post in mind, or just have an interesting experience to share. We’ll help get the word out!
 
 ### Attend an Event
 
 You can catch the Apollo team and contributors IRL at conferences and meetups around the world. [Follow us on Twitter](http://twitter.com/apollographql) to hear where we’ll be next.
 
 If you’re based in the SF Bay Area, or just pass through sometimes, join our [GraphQL San Francisco](http://www.meetup.com/GraphQL-SF/) meetup to get updated when we schedule a new one.
+
+Every year we organize [GraphQL Summit](summit.graphql.com), the first and largest conference for GraphQL developers, in San Francisco. Watch videos from GraphQL Summit 2016 on our [Youtube channel](https://www.youtube.com/watch?v=bPlOGKPLtqM&list=PLpi1lPB6opQzSSOQU8JQLExuP1JUXPtmA)!
