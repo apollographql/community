@@ -1,5 +1,5 @@
 ---
-title: Events
+title: GraphQL Events
 order: 0
 ---
 
