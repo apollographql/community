@@ -12,6 +12,6 @@ You can find the [full playlist](https://www.youtube.com/playlist?list=PLpi1lPB6
 - *001* - [Apollo Client 2.0](https://www.youtube.com/watch?v=LnjyFstpSig&list=PLpi1lPB6opQxFpkr2iKhNRLS7HTYJwq-a&index=1)
 - *002* - [Error Handling and Apollo Link](https://www.youtube.com/watch?v=bv74TcKb1jw&index=2&list=PLpi1lPB6opQxFpkr2iKhNRLS7HTYJwq-a)
 
-## Let us know what to cover
+## Topic requests
 
 We want to make sure this series answers all the questions you might have about Apollo and/or GraphQL, and we're always open to suggestions. Let us know what you'd like us to cover next by tweeting at us at [@apollographql](http://twitter.com/apollographql) or [@peggyrayzis](https://twitter.com/peggyrayzis) with *#missionbriefing*. 
