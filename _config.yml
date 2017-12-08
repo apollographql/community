@@ -16,12 +16,13 @@ sidebar_categories:
     - code-of-conduct
     - graphql-events
     - apollo-mission-briefing
-github_repo: apollostack/community
+github_repo: apollographql/community
 content_root: source
 
 social_links:
-  github: 'https://github.com/apollostack'
-  twitter: '@apollostack'
+  github: 'https://github.com/apollographql'
+  twitter: '@apollographql'
+  slackInvitePage: 'https://www.apollodata.com/#slack'
 
 # API keys
 apis:
