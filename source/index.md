@@ -14,7 +14,7 @@ To keep up to date on all things Apollo, you can follow us on [Twitter](https://
 
 ## Contribute to Apollo
 
-The Apollo project lives on [GitHub](https://github.com/apollographql), and is made up of a diverse set of tools for implementing GraphQL, written and maintained by [contributors](https://github.com/orgs/apollostack/people) around the world. We’d love your help!
+The Apollo project lives on [GitHub](https://github.com/apollographql), and is made up of a diverse set of tools for implementing GraphQL, written and maintained by [contributors](https://github.com/orgs/apollographql/people) around the world. We’d love your help!
 
 Here are some ways you can get involved with the project:
 
