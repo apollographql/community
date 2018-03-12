@@ -5,7 +5,6 @@
 # Site
 title: Community
 subtitle: Get involved the Apollo Community
-description:
 
 versions:
   - '1'
@@ -19,11 +18,6 @@ sidebar_categories:
 github_repo: apollographql/community
 content_root: source
 
-social_links:
-  github: 'https://github.com/apollographql'
-  twitter: '@apollographql'
-  slackInvitePage: 'https://www.apollodata.com/#slack'
-
 # API keys
 apis:
   segment: wgrIo8Bul0Ujl8USETG3DB6hONdy4kTg
@@ -33,20 +27,5 @@ apis:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://www.apollographql.com/docs/community/
 root: /docs/community/
-permalink: :year/:month/:day/:title/
-permalink_defaults:
 
-# Directory
-source_dir: source
 public_dir: public/docs/community
-tag_dir: tags
-archive_dir: archives
-category_dir: categories
-code_dir: downloads/code
-i18n_dir: :lang
-skip_render:
-
-# Extensions
-## Plugins: http://hexo.io/plugins/
-## Themes: http://hexo.io/themes/
-theme: meteor
