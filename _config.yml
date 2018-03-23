@@ -13,11 +13,6 @@ sidebar_categories:
 github_repo: apollographql/community
 content_root: source
 
-# API keys
-apis:
-  segment: wgrIo8Bul0Ujl8USETG3DB6hONdy4kTg
-  gtm: GTM-PNFDVBB
-
 url: https://www.apollographql.com/docs/community/
 root: /docs/community/
 
