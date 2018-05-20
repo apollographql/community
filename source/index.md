@@ -37,4 +37,4 @@ You can catch the Apollo team and contributors IRL at conferences and meetups ar
 
 If you’re based in the SF Bay Area, or just pass through sometimes, join our [GraphQL San Francisco](http://www.meetup.com/GraphQL-SF/) meetup to get updated when we schedule a new one.
 
-Every year we organize [GraphQL Summit](summit.graphql.com), the first and largest conference for GraphQL developers, in San Francisco. Watch videos from GraphQL Summit 2016 on our [Youtube channel](https://www.youtube.com/watch?v=bPlOGKPLtqM&list=PLpi1lPB6opQzSSOQU8JQLExuP1JUXPtmA)!
+Every year we organize [GraphQL Summit](https://summit.graphql.com/), the first and largest conference for GraphQL developers, in San Francisco. Watch videos from GraphQL Summit 2016 on our [Youtube channel](https://www.youtube.com/watch?v=bPlOGKPLtqM&list=PLpi1lPB6opQzSSOQU8JQLExuP1JUXPtmA)!
