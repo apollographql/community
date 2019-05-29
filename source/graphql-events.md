@@ -1,6 +1,6 @@
 ---
 title: GraphQL Events
-order: 0
+description: ''
 ---
 
 The team at Apollo loves to speak at events, help community members looking to speak about GraphQL or Apollo, and organize quality events. Read on to see how you can get involved!
