@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: '/docs/community',
   __experimentalThemes: [
     {
       resolve: 'gatsby-theme-apollo-docs',
@@ -7,7 +8,6 @@ module.exports = {
         subtitle: 'Community',
         description: 'Get involved the Apollo Community',
         contentDir: 'source',
-        basePath: '/docs/community',
         githubRepo: 'apollographql/community',
         sidebarCategories: {
           null: [
