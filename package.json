@@ -10,7 +10,7 @@
     ]
   },
   "dependencies": {
-    "gatsby": "2.13.57",
+    "gatsby": "2.13.58",
     "gatsby-theme-apollo-docs": "1.2.3"
   }
 }
