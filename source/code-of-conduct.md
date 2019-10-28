@@ -14,7 +14,7 @@ This isn’t an exhaustive list of things that you can’t do. Rather, it’s a 
 
 This code of conduct applies to all spaces managed by the Apollo project or company. This includes Slack, GitHub issues, the GraphQL Summit and GraphQL SF events, and any other forums created by the Apollo team which the community uses for communication. Breaches of this code outside these spaces may affect a person's ability to participate within them. We expect it to be honored by everyone who represents or participates in the project, whether officially or informally.
 
-If you believe someone is violating the code of conduct, please report it by emailing [community@apollodata.com](mailto:community@apollostack.com). 
+If you believe someone is violating the code of conduct, please report it by emailing [codeofconduct@graphql.com](mailto:codeofconduct@graphql.com). 
 
 ### We Strive To:
 
@@ -69,3 +69,55 @@ Sections of this Code of Conduct were inspired in by the following Codes from ot
 - [Django](https://www.djangoproject.com/conduct/)
 
 *This Apollo Code of Conduct is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license. This Code was last updated on August 28, 2017.* 
+
+## GraphQL Summit
+
+*Revision: October 2019*
+
+All attendees, speakers, exhibitors, organizers, contractors, and volunteers at GraphQL Summit are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the conference, on social media, and at any related workshops and social events.
+
+### Summary
+
+Apollo GraphQL and GraphQL Summit are committed to providing a fulfilling, inclusive, and harassment-free conference experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment in any form; nor do we tolerate any behavior that would reasonably make another feel unsafe, insecure, unwelcome, or scared for their well-being. 
+
+### What the Code means
+
+Harassing behavior includes any of the following: 
+
+* offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, or religion
+* sexual images in public spaces
+* deliberate intimidation, stalking, following
+* harassing photography or recording
+* sustained disruption of talks or other events
+* inappropriate physical contact, and 
+* unwelcome sexual attention.
+
+Anyone asked to stop any harassing behavior is expected to comply immediately.
+
+Behave professionally. Be respectful of different viewpoints or experiences. Use inclusive language. Sexual language or imagery isn’t acceptable at GraphQL Summit, including any talks. Anyone violating these rules may be sanctioned or expelled from GraphQL Summit without a refund at the discretion of the organizers.
+
+Your attendance is important to us and we’d like you to have an enjoyable time connecting and collaborating with fellow GraphQL community members, leaders, and supporters.
+
+### Reporting an incident
+
+If you are being harassed, or notice that someone is being harassed, please reach out to the organizers by any of the following means:
+
+* **Anonymously** at this [Google Form](https://forms.gle/9fu3qJXBRJSpqE9M9). We cannot directly follow-up an anonymous report, but we will fully investigate it and take whatever action is necessary to prevent a recurrence.
+* **Email** at [codeofconduct@graphql.com](mailto:codeofconduct@graphql.com)
+* **SMS** at 1-925-338-9934
+* **In-person report** with an Apollo team member (identified by a purple GraphQL Summit 2019 t-shirt)
+
+When taking a personal report, our team will ensure you are safe and cannot be overheard. They may involve other team members to ensure your report is managed properly. Once safe, we’ll ask you to tell us about what happened. This can be upsetting, but we’ll handle it as respectfully as possible, and you can bring someone to support you. You won’t be asked to confront anyone and we won’t tell anyone who you are.
+
+During the hours of GraphQL Summit, we’ll get in touch within 1 hour. Outside the hours of GraphQL Summit, we’ll be in touch within 8 hours.
+
+### Important contact information
+
+* All Emergencies:  Call 9-1-1
+* San Francisco Police Department (SFPD):  Central Station, 766 Vallejo Street, San Francisco, CA 94133
+* SFPD Non-Emergency:  1-415-553-0123 (tel:+1-415-553-0123)
+
+### Attribution
+
+This Code of Conduct was based on [The Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), [JSConf Code of Conduct](http://jsconf.com/codeofconduct.html), and [Github Universe Code of Conduct](https://githubuniverse.com/code-of-conduct/). 
+
