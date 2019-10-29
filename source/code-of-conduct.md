@@ -94,7 +94,11 @@ Harassing behavior includes any of the following:
 
 Anyone asked to stop any harassing behavior is expected to comply immediately.
 
-Behave professionally. Be respectful of different viewpoints or experiences. Use inclusive language. Sexual language or imagery isn’t acceptable at GraphQL Summit, including any talks. Anyone violating these rules may be sanctioned or expelled from GraphQL Summit without a refund at the discretion of the organizers.
+Behave professionally. Be respectful of different viewpoints or experiences. Use inclusive language. Sexual language or imagery isn’t acceptable at GraphQL Summit, including any talks.
+
+Concerning the costume party during GraphQL Summit, all attendees should start from a place of mutual respect and understanding. An inappropriate costume is one in which someone of a culture takes elements from another culture.
+
+Anyone violating these rules may be sanctioned or expelled from GraphQL Summit without a refund at the discretion of the organizers.
 
 Your attendance is important to us and we’d like you to have an enjoyable time connecting and collaborating with fellow GraphQL community members, leaders, and supporters.
 
