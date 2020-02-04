@@ -7,7 +7,7 @@ The team at Apollo loves to speak at events, help community members looking to s
 
 ## Give a talk
 
-Whether you're gearing up to give a GraphQL or Apollo talk at a local meetup or a large industry event, we want to help spread the word and set you up with the resources to feel prepared. Let us know about events you're submitting to, when you're planning to speak, or when your talk videos have been published in the **#events** channel on [Apollo Slack](http://apollographql.com/#slack). 
+Whether you're gearing up to give a GraphQL or Apollo talk at a local meetup or a large industry event, we want to help spread the word and set you up with the resources to feel prepared. Let us know about events you're submitting to, when you're planning to speak, or when your talk videos have been published in the **#events** channel on [Apollo Spectrum](https://spectrum.chat/apollo). 
 
 ## Meetups
 
