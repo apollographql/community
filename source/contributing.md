@@ -7,9 +7,9 @@ Excited about Apollo and want to make it better? We’re excited too. Read below
 
 ## Contributor channels
 
-### Slack
+### Spectrum
 
-A great place to start if you're looking for ideas on how to contribute, guidance through our contribution workflow, or discussion with other contributors, is the **#contributing** channel on [Apollo Slack](http://apollographql.com/#slack). We're always looking for new library maintainers and issue triagers, and this channel is the best place to see where your help is needed.  
+A great place to start if you're looking for ideas on how to contribute, guidance through our contribution workflow, or discussion with other contributors, is the **#contributing** channel on [Apollo Spectrum](https://spectrum.chat/apollo/contributing). We're always looking for new library maintainers and issue triagers, and this channel is the best place to see where your help is needed.
 
 ### Contributor Weekly 
 
@@ -45,10 +45,6 @@ Most of the features in Apollo were suggested by the community at some point in 
 Feature requests will be labeled as such, and we encourage using GitHub issues as a place to discuss new features and possible implementation designs. Please refrain from submitting a pull request to implement a proposed feature until there is consensus that it should be included. This way, you can avoid putting in work that can’t be merged in.
 
 Once there is a consensus on the need for a new feature, proceed as listed below under “Big PRs”.
-
-### Responding to issues
-
-In addition to reporting issues, a great way to contribute to Apollo is to respond to other peoples' issues and try to identify the problem or help them work around it. If you’re interested in taking a more active role in this process, please let us know on the Apollo Slack!
 
 ## Small PRs
 

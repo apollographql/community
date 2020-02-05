@@ -12,7 +12,7 @@ The project gains strength from a diversity of backgrounds and perspectives in o
 
 This isn’t an exhaustive list of things that you can’t do. Rather, it’s a guide for participation in the community that outlines how each of us can work to keep Apollo a positive, successful, and growing project. 
 
-This code of conduct applies to all spaces managed by the Apollo project or company. This includes Slack, GitHub issues, the GraphQL Summit and GraphQL SF events, and any other forums created by the Apollo team which the community uses for communication. Breaches of this code outside these spaces may affect a person's ability to participate within them. We expect it to be honored by everyone who represents or participates in the project, whether officially or informally.
+This code of conduct applies to all spaces managed by the Apollo project or company. This includes Spectrum, GitHub issues, the GraphQL Summit and GraphQL SF events, and any other forums created by the Apollo team which the community uses for communication. Breaches of this code outside these spaces may affect a person's ability to participate within them. We expect it to be honored by everyone who represents or participates in the project, whether officially or informally.
 
 If you believe someone is violating the code of conduct, please report it by emailing [codeofconduct@graphql.com](mailto:codeofconduct@graphql.com). 
 
@@ -124,4 +124,3 @@ During the hours of GraphQL Summit, we’ll get in touch within 1 hour. Outside 
 ### Attribution
 
 This Code of Conduct was based on [The Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), [JSConf Code of Conduct](http://jsconf.com/codeofconduct.html), and [Github Universe Code of Conduct](https://githubuniverse.com/code-of-conduct/). 
-
