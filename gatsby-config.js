@@ -8,9 +8,9 @@ module.exports = {
       options: {
         ...themeOptions,
         root: __dirname,
+        baseDir: undefined,
         subtitle: 'Community',
         description: 'Get involved the Apollo Community',
-        contentDir: 'source',
         githubRepo: 'apollographql/community',
         sidebarCategories: {
           null: [
