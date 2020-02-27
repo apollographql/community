@@ -16,6 +16,7 @@ module.exports = {
           null: [
             'index',
             'contributing',
+            'blog-post-contributions',
             'code-of-conduct',
             'graphql-events',
             'apollo-mission-briefing'
