@@ -36,7 +36,7 @@ Types of blog posts we're looking for:
 - Something cool you built with Apollo
 - Showcasing a tool, fix, or other content you or someone else have contributed to Apollo's open source community
 - Clear and thoughtful explanations of technical details or complex concepts related to Apollo, GraphQL, React, web and application development, open-source contribution, Apollo core, and other Apollo-adjacent subject matter
-- Guidance and resources for learning Apollo, GraphQL, web development, best practices, architecture, different tools and CMS integrations, and other Apollo-adjacent subject matter.
+- Guidance and resources for learning Apollo, GraphQL, web development, best practices, architecture, different tools/integrations, and other Apollo-adjacent subject matter.
 - Any other topics that you think would be valuable to people learning about or working with Apollo
 
 We're open to all kinds of topics as long as it relates to Apollo in some way. We love posts of all reading levels (beginner to intermediate, to advanced). If you're stumped, we especially like posts that mix Apollo with the following topics:
