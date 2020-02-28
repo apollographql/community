@@ -2,7 +2,7 @@
 title: Blog Post Contributions
 description: ''
 ---
-We love community contributions to the [Apollo Blog](http://blog.apollographql.com/)! If you're as excited about Apollo as we are and would like to teach the community, share your unique Apollo experience, or show off something cool you've built with Apollo, we're here for you.
+We love community contributions to the [Apollo Blog](http://blog.apollographql.com/)! If you're as excited about the data graph as we are and would like to teach the community, share your unique Apollo experience, or show off something cool you've built with Apollo, we're here for you.
 
 ## Contributing to the blog
 
@@ -19,7 +19,7 @@ If we've accepted your post, we'll work with you to turn your idea into a draft 
 
 #### Posts not accepted
 
-If we didn't accept your post, no worries! We'll provide you with feedback or other ways that we can turn your post into something that will be useful to the community. Either way, we've got your back.
+If we didn't accept your post, no worries! We'll provide you with feedback or other ways that we can turn your post into something that will be useful to the community. Either way, we'll help you!
 
 ## Content guidelines
 
@@ -27,30 +27,27 @@ Here are some tips for writing awesome content that helps the community.
 
 ### Content we love
 
-Types of blog posts we're looking for:
+Types of blog posts we love to read:
 
-- Information to help others overcome the challenges you’ve faced while working with Apollo
-- "How to" guides, recipes, or tutorials on how to address problems you've solved with Apollo (here's an example, "[Apollo Client [React] — How to Query on Click](https://blog.apollographql.com/apollo-client-react-how-to-query-on-click-c1d4fecf9b66)")
+- “How to” guides, recipes, or tutorials on how to address problems you’ve solved with Apollo (here's an example, "[Apollo Client [React] — How to Query on Click](https://blog.apollographql.com/apollo-client-react-how-to-query-on-click-c1d4fecf9b66)")
 - Stories about how Apollo helped you overcome different challenges on work and personal projects
-- Apollo case studies
 - Something cool you built with Apollo
-- Showcasing a tool, fix, or other content you or someone else have contributed to Apollo's open source community
-- Clear and thoughtful explanations of technical details or complex concepts related to Apollo, GraphQL, React, web and application development, open-source contribution, Apollo core, and other Apollo-adjacent subject matter
-- Guidance and resources for learning Apollo, GraphQL, web development, best practices, architecture, different tools/integrations, and other Apollo-adjacent subject matter.
+- Showcasing a tool, fix, or other content you or someone else has contributed to Apollo’s open source community
+- Guidance and resources for learning Apollo, GraphQL, best practices, architecture, different tools/integrations, and other Apollo-related content.
 - Any other topics that you think would be valuable to people learning about or working with Apollo
 
 We're open to all kinds of topics as long as it relates to Apollo in some way. We love posts of all reading levels (beginner to intermediate, to advanced). If you're stumped, we especially like posts that mix Apollo with the following topics:
 
 - TypeScript
-- GraphQL Best Practices
+- GraphQL best practices
 - Caching
 - React.js
 - Authentication & authorization
-- Error Handling
+- Error handling
 - Front-end development
 - Server-side development
 - Scaling GraphQL
-- Schema Design
+- Schema design
 
 ### Content to avoid
 
