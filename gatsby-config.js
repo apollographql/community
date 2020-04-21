@@ -1,28 +1,29 @@
-const themeOptions = require('gatsby-theme-apollo-docs/theme-options');
+const themeOptions = require("gatsby-theme-apollo-docs/theme-options");
 
 module.exports = {
-  pathPrefix: '/docs/community',
+  pathPrefix: "/docs/community",
   plugins: [
     {
-      resolve: 'gatsby-theme-apollo-docs',
+      resolve: "gatsby-theme-apollo-docs",
       options: {
         ...themeOptions,
         root: __dirname,
         baseDir: undefined,
-        subtitle: 'Community',
-        description: 'Get involved the Apollo Community',
-        githubRepo: 'apollographql/community',
+        subtitle: "Community",
+        description: "Get involved the Apollo Community",
+        githubRepo: "apollographql/community",
         sidebarCategories: {
           null: [
-            'index',
-            'contributing',
-            'blog-post-contributions',
-            'code-of-conduct',
-            'graphql-events',
-            'apollo-mission-briefing'
-          ]
-        }
-      }
-    }
-  ]
+            "index",
+            "contributing",
+            "blog-post-contributions",
+            "code-of-conduct",
+            "graphql-events",
+            "apollo-mission-briefing",
+            "streaming-at-apollo",
+          ],
+        },
+      },
+    },
+  ],
 };
