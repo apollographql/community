@@ -7,7 +7,7 @@ We're always looking for ways to engage with the Apollo community, and live stre
 
 ## Where We Stream
 
-Currently we stream on [Twitch](https://twitch.tv/apollographql). However, we are looking at cross-streaming to other platforms like Twitter and YouTube!
+Currently, we stream on [Twitch](https://twitch.tv/apollographql). However, we are looking at cross-streaming to other platforms like Twitter and YouTube!
 
 > Want to see us stream on other platforms? Let us know [on social media](https://twitter.com/apollographql)!
 
@@ -26,6 +26,8 @@ We think there's a lot of room for different types of content on a livestream, a
 ## Schedule
 
 If you want to stay up to date on when we'll be streaming next, you can subscribe to [our calendar](https://go.apollo.dev/events-calendar) or check the [schedule panel on Twitch](https://twitch.tv/apollographql).
+
+![Screenshot of the schedule panel on Twitch](./schedule-panel-twitch.png)
 
 ## Join Us
 
