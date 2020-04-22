@@ -3,7 +3,7 @@ title: Streaming at Apollo
 description: ""
 ---
 
-We're always looking for ways to engage with the Apollo community, and live streaming is an excellent way for us to do just that! If you're interesting how you can participate, or want to know when and what we stream, then read on!
+We're always looking for ways to engage with the Apollo community, and live streaming is an excellent way for us to do just that! If you're interested in how you can participate, or want to know when and what we stream, then read on!
 
 ## Where We Stream
 
