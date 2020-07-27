@@ -7,7 +7,7 @@ order: 10
 
 If you see a Code of Conduct violation, follow these steps:
 
-- Let the person know that what they did is not appropriate and ask them to stop and/or edit their message(s) if online. In addition, you can flag `@Code of Conduct` in Discord to get the attention of the admin team.
+- Let the person know that what they did is not appropriate and ask them to stop and/or edit their message(s) if online.
 - That person should immediately stop the behavior and correct the issue.
 - If this doesn’t happen, or if you’re uncomfortable speaking up, contact organizers by emailing [codeofconduct@graphql.com](mailto:codeofconduct@graphql.com).
 - As soon as available, an organizer will respond, identify themselves, and take further action (see below), starting with a warning, then temporary deactivation, then long-term deactivation.
