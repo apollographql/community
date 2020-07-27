@@ -2,125 +2,94 @@
 title: Apollo Code of Conduct
 order: 10
 ---
-### Community and Diversity
 
-We want to build a productive, happy and agile community that welcomes new ideas, constantly looks for areas to improve, and fosters collaboration. 
+### Apollo Code of Conduct
 
-The project gains strength from a diversity of backgrounds and perspectives in our contributor community, and we actively seek participation from those who enhance it. This code of conduct exists to lay some ground rules that ensure we can collaborate and communicate effectively, despite our diversity. The code applies equally to founders, team members and those seeking help and guidance.
+If you see a Code of Conduct violation, follow these steps:
 
-### Using This Code
+- Let the person know that what they did is not appropriate and ask them to stop and/or edit their message(s) if online.
+- That person should immediately stop the behavior and correct the issue.
+- If this doesn’t happen, or if you’re uncomfortable speaking up, contact organizers by emailing [codeofconduct@graphql.com](mailto:codeofconduct@graphql.com).
+- As soon as available, an organizer will respond, identify themselves, and take further action (see below), starting with a warning, then temporary deactivation, then long-term deactivation.
+- When reporting, please include any relevant details, links, screenshots, context, or other information that may be used to better understand and resolve the situation.
+- The Admin team will prioritize the well-being and comfort of those affected negatively by the violation over the comfort of the violator. This may include the violator being removed from online or in-person spaces until those affected say they would feel safe with the person returning.
 
-This isn’t an exhaustive list of things that you can’t do. Rather, it’s a guide for participation in the community that outlines how each of us can work to keep Apollo a positive, successful, and growing project. 
+### Our Goal
 
-This code of conduct applies to all spaces managed by the Apollo project or company. This includes Spectrum, GitHub issues, the GraphQL Summit and GraphQL SF events, and any other forums created by the Apollo team which the community uses for communication. Breaches of this code outside these spaces may affect a person's ability to participate within them. We expect it to be honored by everyone who represents or participates in the project, whether officially or informally.
+This community is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 
-If you believe someone is violating the code of conduct, please report it by emailing [codeofconduct@graphql.com](mailto:codeofconduct@graphql.com). 
+### Applicability and Scope
 
-### We Strive To:
+This code of conduct applies to all of this community's spaces, including public channels, private channels and direct messages, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the administrators.
 
-- **Be open, patient, and welcoming**
+### Toward a Welcoming and Safe Environment
 
-    Members of this community are open to collaboration, whether it's on PRs, issues, or problems. We're receptive to constructive comment and criticism, as we value what the experiences and skill sets of contributors bring to the project. We're accepting of all who wish to get involved, and find ways for anyone to participate in a way that best matches their strengths.
-  
-- **Be considerate**
+We hope to create an environment in which diverse individuals can collaborate and interact in a positive and affirming way. Examples of behavior that contributes to creating this sort of environment include:
 
-    We are considerate of our peers: other Apollo users and contributors. We’re thoughtful when addressing others’ efforts, keeping in mind that work is often undertaken for the benefit of the community. We also value others’ time and appreciate that not every issue or comment will be responded to immediately. We strive to be mindful in our communications, whether in person or online, and we're tactful when approaching views that are different from our own.
-    
-- **Be respectful**
+- Using welcoming and inclusive language
+- Being respectful of differing viewpoints and experiences
+- Gracefully accepting constructive criticism
+- Focusing on what is best for the overall community
+- Showing empathy towards other community members
 
-    As a community of professionals, we are professional in our handling of disagreements, and don’t allow frustration to turn into a personal attack. We work together to resolve conflict, assume good intentions and do our best to act in an empathic fashion. 
+### Anti-Harassment Statement
 
-    We do not tolerate harassment or exclusionary behavior. This includes, but is not limited to:
-  - Violent threats or language directed against another person.
-  - Discriminatory jokes and language.
-  - Posting sexually explicit or sexualized content.
-  - Posting content depicting or encouraging violence. 
-  - Posting (or threatening to post) other people's personally identifying information ("doxing").
-  - Personal insults, especially those using racist or sexist terms.
-  - Unwelcome sexual attention.
-  - Advocating for, or encouraging, any of the above behavior.
-  - Repeated harassment of others. In general, if someone asks you to stop, then stop.
-  
-- **Take responsibility for our words and our actions**
+This community will not tolerate harassment of any kind. Examples of harassment include:
 
-    We can all make mistakes; when we do, we take responsibility for them. If someone has been harmed or offended, we listen carefully and respectfully. We are also considerate of others’ attempts to amend their mistakes.
-    
-- **Be collaborative**  
+- Offensive comments, usernames, and emoji related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, pregnancy status, veteran status, political affiliation, marital status, body size, age, race, national origin, ethnic origin, nationality, immigration status, language, religion or lack thereof, or other identity markers. This includes anti-Indigenous/Nativeness and anti-Blackness.
+- Unwelcome comments regarding a person's lifestyle choices and practices, including those related to food, health, parenting, relationships, drugs, and employment.
+- Deliberate misgendering, using inappropriate pronouns, or use of "dead" or rejected names.
+- Gratuitous or off-topic sexual images or behavior in spaces where they're not appropriate.
+- Physical contact and simulated physical contact (eg, textual descriptions like "hug" or "backrub") without consent or after a request to stop.
+- Threats of violence.
+- Incitement of violence towards any individual or group, including encouraging a person to commit suicide or to engage in self-harm.
+- Deliberate intimidation.
+- Stalking or following - online or in the physical world.
+- Harassing photography or recording, including logging online activity for harassment purposes.
+- Sustained disruption of discussion.
+- Unwelcome sexual attention.
+- Patterns of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others.
+- Continued one-on-one communication after requests to cease.
+- Deliberate "outing" of any aspect of a person's identity without their consent except as necessary to protect vulnerable people from intentional abuse.
+- Publication of non-harassing private communication.
+- Jokes that resemble the above, such as "hipster racism", still count as harassment even if meant satirically or ironically.
 
-    The work we produce is (and is part of) an ecosystem containing several parallel efforts working towards a similar goal. Collaboration between teams and individuals that each have their own goal and vision is essential to reduce redundancy and improve the quality of our work. 
-    
-    Internally and externally, we celebrate good collaboration. Wherever possible, we work closely with upstream projects and others in the free software community to coordinate our efforts. We prefer to work transparently and involve interested parties as early as possible.
-    
-- **Ask for help when in doubt**
+If you have questions or concerns about these issues please feel free to message an admin or ask for an opportunity to explore the issue with a moderator and volunteers.
 
-    Nobody is expected to be perfect in this community. Asking questions early avoids many problems later, so questions are encouraged, though they may be directed to the appropriate forum. Those who are asked should be responsive and helpful.
-    
-- **Take initiative** 
+### Reporting
 
-    We encourage new participants to feel empowered to lead, to take action, and to experiment when they feel innovation could improve the project. If we have an idea for a new tool, or how an existing tool can be improved, we speak up and take ownership of that work when possible. 
-    
-### Attribution
+If you are being harassed by a member of our community, notice that someone else is being harassed, or have any other concerns, please contact the administrators via [codeofconduct@graphql.com](mailto:codeofconduct@graphql.com). If the person who is harassing you is on the admin team, they will not be involved in handling or resolving the incident.
 
-Sections of this Code of Conduct were inspired in by the following Codes from other open source projects and resources we admire:  
+The admin team will respond to any complaint as promptly as possible we can. If you do not get a timely response (for example, if no admins are currently online) then please put your personal safety and well-being first, and consider logging out and/or contacting the admins by email at [codeofconduct@graphql.com](mailto:codeofconduct@graphql.com).
 
-- [The Contributor Covenant](http://contributor-covenant.org/version/1/4/)
-- [Python](https://www.python.org/psf/codeofconduct/)
-- [Ubuntu](http://www.ubuntu.com/about/about-ubuntu/conduct)
-- [Django](https://www.djangoproject.com/conduct/)
+This code of conduct applies to our community's spaces, but if you are being harassed by a member of our community outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by our members, especially the administrators, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from the community based on their past behavior, including behavior outside of our spaces and behavior towards people who are not in this community.
 
-*This Apollo Code of Conduct is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license. This Code was last updated on August 28, 2017.* 
+In order to protect volunteers from abuse and burnout, we reserve the right to reject any report we believe to have been made in bad faith. Reports intended to silence legitimate criticism may be deleted without response.
 
-## GraphQL Summit
+### Enforcement Process
 
-*Revision: October 2019*
+Every code of conduct violation report will be treated with seriousness and care. If a member's immediate safety and security is threatened, an individual admin may take any action that they deem appropriate, up to and including temporarily banning the offender from the community. In less urgent situations, at least two admins will discuss the offense and mutually arrive at a suitable response, which will be shared with the offender privately. Whatever the resolution that they decide upon, the decision of the admins involved in a violation case will be considered final.
 
-All attendees, speakers, exhibitors, organizers, contractors, and volunteers at GraphQL Summit are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the conference, on social media, and at any related workshops and social events.
+We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we've received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of our members or the general public. We will not name harassment victims without their affirmative consent.
 
-### Summary
+GraphQL Summit prioritizes marginalized people’s safety over privileged people’s comfort. The administrators will not act on complaints regarding:
 
-Apollo GraphQL and GraphQL Summit are committed to providing a fulfilling, inclusive, and harassment-free conference experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment in any form; nor do we tolerate any behavior that would reasonably make another feel unsafe, insecure, unwelcome, or scared for their well-being. 
+- “Reverse”-isms, including “reverse racism,” “reverse sexism,” and “cisphobia”
+- Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you.”
+- Communicating in a “tone” you don’t find congenial
+- Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
+- The examples listed above are not against the Code of Conduct.
 
-### What the Code means
+### Consequences
 
-Harassing behavior includes any of the following: 
+Participants asked to stop any harassing behavior are expected to comply immediately. If a participant engages in harassing behavior, the administrators may take any action they deem appropriate, up to and including expulsion from the community and identification of the participant as a harasser to other members. At the discretion of the admins, or by request, one or more of the parties involved may request to discuss the violation and how to avoid similar situations in the future.
 
-* offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, or religion
-* sexual images in public spaces
-* deliberate intimidation, stalking, following
-* harassing photography or recording
-* sustained disruption of talks or other events
-* inappropriate physical contact, and 
-* unwelcome sexual attention.
+### Acknowledgements
 
-Anyone asked to stop any harassing behavior is expected to comply immediately.
+This Code of Conduct is adapted from the Community Covenant ([http://community-covenant.net](http://community-covenant.net/)), version 1.0, available at http://community-covenant.net/version/1/0/. The Community Covenant is an open source effort and is built on codes of conduct that came before it, including the Contributor Covenant (http://contributor-covenant.org/) and the LGBTQ in Tech community code of conduct (http://lgbtq.technology/coc.html).
 
-Behave professionally. Be respectful of different viewpoints or experiences. Use inclusive language. Sexual language or imagery isn’t acceptable at GraphQL Summit, including any talks.
+This CoC also includes material adapted from the LGBTQ in Tech community code of conduct (http://lgbtq.technology/coc.html) beyond what the community covenant includes.
 
-Concerning the costume party during GraphQL Summit, all attendees should start from a place of mutual respect and understanding. An inappropriate costume is one in which someone of a culture takes elements from another culture.
+### License
 
-Anyone violating these rules may be sanctioned or expelled from GraphQL Summit without a refund at the discretion of the organizers.
-
-Your attendance is important to us and we’d like you to have an enjoyable time connecting and collaborating with fellow GraphQL community members, leaders, and supporters.
-
-### Reporting an incident
-
-If you are being harassed, or notice that someone is being harassed, please reach out to the organizers by any of the following means:
-
-* **Anonymously** at this [Google Form](https://forms.gle/9fu3qJXBRJSpqE9M9). We cannot directly follow-up an anonymous report, but we will fully investigate it and take whatever action is necessary to prevent a recurrence.
-* **Email** at [codeofconduct@graphql.com](mailto:codeofconduct@graphql.com)
-* **SMS** at 1-925-338-9934
-* **In-person report** with an Apollo team member (identified by a purple GraphQL Summit 2019 t-shirt)
-
-When taking a personal report, our team will ensure you are safe and cannot be overheard. They may involve other team members to ensure your report is managed properly. Once safe, we’ll ask you to tell us about what happened. This can be upsetting, but we’ll handle it as respectfully as possible, and you can bring someone to support you. You won’t be asked to confront anyone and we won’t tell anyone who you are.
-
-During the hours of GraphQL Summit, we’ll get in touch within 1 hour. Outside the hours of GraphQL Summit, we’ll be in touch within 8 hours.
-
-### Important contact information
-
-* All Emergencies:  Call 9-1-1
-* San Francisco Police Department (SFPD):  Central Station, 766 Vallejo Street, San Francisco, CA 94133
-* SFPD Non-Emergency:  1-415-553-0123 (tel:+1-415-553-0123)
-
-### Attribution
-
-This Code of Conduct was based on [The Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), [JSConf Code of Conduct](http://jsconf.com/codeofconduct.html), and [Github Universe Code of Conduct](https://githubuniverse.com/code-of-conduct/). 
+Community Covenant by Coraline Ada Ehmke is licensed under a Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/). Based on a work at http://community-covenant.net/.
