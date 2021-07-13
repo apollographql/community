@@ -7,9 +7,9 @@ Excited about Apollo and want to make it better? We’re excited too. Read below
 
 ## Contributor channels
 
-### Spectrum
+### The Apollo Community Forums
 
-A great place to start if you're looking for ideas on how to contribute, guidance through our contribution workflow, or discussion with other contributors, is the **#contributing** channel on [Apollo Spectrum](https://spectrum.chat/apollo/contributing). We're always looking for new library maintainers and issue triagers, and this channel is the best place to see where your help is needed.
+A great place to start if you're looking for ideas on how to contribute, guidance through our contribution workflow, or discussion with other contributors, is the [Apollo Community Forums](https://community.apollographql.com). We're always looking for new library maintainers and issue triagers, and this channel is the best place to see where your help is needed.
 
 ### Contributor Weekly 
 

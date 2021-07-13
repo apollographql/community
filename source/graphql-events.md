@@ -7,11 +7,11 @@ The team at Apollo loves to speak at events, help community members looking to s
 
 ## Give a talk
 
-Whether you're gearing up to give a GraphQL or Apollo talk at a local meetup or a large industry event, we want to help spread the word and set you up with the resources to feel prepared. Let us know about events you're submitting to, when you're planning to speak, or when your talk videos have been published in the **#events** channel on the [Apollo Spectrum](https://spectrum.chat/apollo/events).
+Whether you're gearing up to give a GraphQL or Apollo talk at a local meetup or a large industry event, we want to help spread the word and set you up with the resources to feel prepared. Let us know about events you're submitting to, when you're planning to speak, or when your talk videos have been published on the [Apollo Community Forums](https://community.apollographql.com).
 
 ## Meetups
 
-There over 50 meetups around the world featuring talks by and for GraphQL developers. Find the one [nearest you](https://www.meetup.com/topics/graphql/) or [get in touch](mailto:community@apollographql.com) for support in organizing one yourself! If you're looking for speakers to present at your own meetup, be sure to let the community know in the **#events** channel on Spectrum.
+There over 50 meetups around the world featuring talks by and for GraphQL developers. Find the one [nearest you](https://www.meetup.com/topics/graphql/) or [get in touch](mailto:community@apollographql.com) for support in organizing one yourself! If you're looking for speakers to present at your own meetup, be sure to let the community know in the [Apollo Community Forums](https://community.apollographql.com).
 
 ### GraphQL SF
 
