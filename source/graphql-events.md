@@ -5,6 +5,10 @@ description: ''
 
 The team at Apollo loves to speak at events, help community members looking to speak about GraphQL or Apollo, and organize quality events. Read on to see how you can get involved!
 
+## Apollo GraphQL Events
+
+Head over to [Apollo GraphQL's events hub](https://apollographql.com/events/) to register for our upcoming events, or watch any of our past events on-demand.
+
 ## Give a talk
 
 Whether you're gearing up to give a GraphQL or Apollo talk at a local meetup or a large industry event, we want to help spread the word and set you up with the resources to feel prepared. [Let us know on Twitter](https://twitter.com/apollographql) about events you're submitting to, when you're planning to speak, or when your talk videos have been published!
