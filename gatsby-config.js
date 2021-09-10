@@ -1,13 +1,13 @@
 const themeOptions = require("gatsby-theme-apollo-docs/theme-options");
 
 module.exports = {
-  pathPrefix: "/docs/community",
   plugins: [
     {
       resolve: "gatsby-theme-apollo-docs",
       options: {
         ...themeOptions,
         root: __dirname,
+        pathPrefix: "/docs/community",
         baseDir: undefined,
         subtitle: "Community",
         description: "Get involved the Apollo Community",
