@@ -2,7 +2,7 @@
 title: Blog Post Contributions
 description: ''
 ---
-We love community contributions to the [Apollo Blog](http://blog.apollographql.com/)! If you're as excited about the data graph as we are and would like to teach the community, share your unique Apollo experience, or show off something cool you've built with Apollo, we're here for you.
+We love community contributions to the [Apollo Blog](http://blog.apollographql.com/)! If you're as excited about the graph as we are and would like to teach the community, share your unique Apollo experience, or show off something cool you've built with Apollo, we're here for you.
 
 ## Contributing to the blog
 
