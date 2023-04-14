@@ -1,0 +1,8 @@
+
+[[ rules ]]
+    id = "high-entropy-base64"
+    [ rules.allowlist ]
+        commits = [
+            "39f1cf49e771bb2a07fcf1e061419d111f9f8f85",
+            
+        ]
